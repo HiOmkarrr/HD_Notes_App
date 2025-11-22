@@ -67,6 +67,12 @@ export default function SettingsScreen() {
           </View>
           <ChevronRight size={20} color="#d4d4d8" />
         </TouchableOpacity>
+
+        <View className="mt-auto pt-10 pb-6 items-center">
+          <Text className="text-zinc-400 text-sm font-medium">
+            Made by HiOmkarrr
+          </Text>
+        </View>
       </View>
     </SafeAreaView>
   );
