@@ -12,6 +12,11 @@ SafeNote is a secure, biometric-protected notes application built with React Nat
 - **Storage**: AsyncStorage + Expo FileSystem
 - **Authentication**: Local Biometric Authentication (Fingerprint/FaceID)
 
+## 📥 Download APK
+
+You can download the latest build of the app directly from Expo:
+[**Download SafeNote APK**](https://expo.dev/accounts/hiomkarrr/projects/HD_Notes_App/builds/eeafb747-48dc-42d0-9c66-917b9556f669)
+
 ## 🛠️ Prerequisites
 
 - Node.js (LTS recommended)

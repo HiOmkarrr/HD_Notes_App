@@ -5,6 +5,11 @@ A production-grade React Native application built with Expo, TypeScript, and Nat
 ## Core Philosophy
 SafeNote is designed to be **Offline-First**. It supports multiple users on a single device with strict data isolation using encrypted local storage (MMKV). Cloud features are optional enhancements.
 
+## 📥 Download APK
+
+You can download the latest build of the app directly from Expo:
+[**Download SafeNote APK**](https://expo.dev/accounts/hiomkarrr/projects/HD_Notes_App/builds/eeafb747-48dc-42d0-9c66-917b9556f669)
+
 ## Tech Stack
 - **Framework:** React Native (Expo SDK 50+)
 - **Language:** TypeScript
